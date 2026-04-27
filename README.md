@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @fned-ship
 - 👀 I’m interested in sites developing
-- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 email : fnedyoussef222@gmail.com
 
 <!---
 fned-ship/fned-ship is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
